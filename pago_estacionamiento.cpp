@@ -26,9 +26,9 @@ void casos_de_prueba(){
     // Agrega tus casos de prueba
    
     cout <<0<<"                 "<<     7   <<"           "<<pago_estacionamiento(0)<<"               "<<"Fail" << endl;
-    cout <<7<<"                 "<<     70   <<"           "<<pago_estacionamiento(0)<<"              "<<"Pass" << endl;
-    cout <<12<<"                 "<<    84   <<"           "<<pago_estacionamiento(0)<<"              "<<"Pass" << endl;
-    cout <<-5<<"                 "<<    10    <<"           "<<pago_estacionamiento(0)<<"               "<<"Fail" << endl;
+    cout <<7<<"                 "<<     70   <<"           "<<pago_estacionamiento(7)<<"              "<<"Pass" << endl;
+    cout <<12<<"                 "<<    84   <<"           "<<pago_estacionamiento(12)<<"              "<<"Pass" << endl;
+    cout <<-5<<"                 "<<    10    <<"           "<<pago_estacionamiento(-5)<<"               "<<"Fail" << endl;
 
 }
 
